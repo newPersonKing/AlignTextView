@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+  <com.gy.aligntextview.view.AlignTextView
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:lines="10"
+      android:text="dhajshdkajshd我才十八搜的哈师大ashi爱德华扫射按视频到静安寺破你的计划啊啊卡三等奖奥斯卡的哈蓝色大海阿里山的哈伦裤收到货案例贾老师开打了卡收到货kajsd45646546546asda  sasda asdasdasd asdasdasdsa asdasd asdasdasdasdasdasdasdasdaadsahjoahsdoiahohgjgjhjhjh"/>
+
+</android.support.constraint.ConstraintLayout>
